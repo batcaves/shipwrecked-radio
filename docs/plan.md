@@ -219,4 +219,4 @@ Not required for the first version, but future goals:
   - On-site server?
   - Cloud/VPS?
 
-These answers will influence the exact hardware spec and budget in `hardware-and-budget.md`.
+These answers will influence the exact hardware spec and budget in `hardware-and-budget.md`
